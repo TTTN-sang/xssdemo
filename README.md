@@ -65,10 +65,13 @@ Các API cần chú ý nhiều:
 >Có thể sử dụng cho hầu hết các *module* trong extension.
 
 ## chrome.devtools.panel
+> ABC
 
 ## chrome.runtime
+> ABC
 
 ## chrome.events
+>ABC
 
 [1]:#background
 [2]:#browser-action
