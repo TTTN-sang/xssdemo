@@ -1,11 +1,11 @@
-- [Cấu trúc thư mục](#cu-trc-th-mc)
+- [Cấu trúc thư mục](#cấu-trúc-thư-mục)
   - [Background](#background)
   - [Browser Action](#browser-action)
   - [Page Action](#page-action)
   - [Panel](#panel)
   - [Content Script](#content-script)
 
-- [Các kỹ thuật cần nắm](#cc-k-thut-cn-nm)
+- [Các kỹ thuật cần nắm](#các-kỹ-thuật-cần-nắm)
   - [Message Passing](#message-passing)
 
 - [To-Do list](#to-do-list)
