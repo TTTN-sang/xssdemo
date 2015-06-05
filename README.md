@@ -60,10 +60,14 @@ Content Script là những đoạn js được chèn vào trực tiếp trang we
 
 Các API cần chú ý nhiều:
 ## chrome.tabs
+
 ## chrome.extension
->Có thể sử dụng cho hầu hết các *module* trong extension. 
+>Có thể sử dụng cho hầu hết các *module* trong extension.
+
 ## chrome.devtools.panel
+
 ## chrome.runtime
+
 ## chrome.events
 
 [1]:#background
