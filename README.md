@@ -1,5 +1,3 @@
-<!-- TOC depth:6 withLinks:1 updateOnSave:1 -->
-
 - [Cấu trúc thư mục](#cu-trc-th-mc)
   - [Background](#background)
   - [Browser Action](#browser-action)
@@ -17,7 +15,7 @@
   - [chrome.extension](#chromeextension)
   - [chrome.devtools.panel](#chromedevtoolspanel)
   - [chrome.runtime](#chromeruntime)
-  - [chrome.events](#chromeevents)<!-- /TOC -->
+  - [chrome.events](#chromeevents)
 
 # Cấu trúc thư mục
 
@@ -101,6 +99,4 @@ Các API cần chú ý nhiều:
 > ABC
 
 ## chrome.events
-\<\<\<\<\<\<< HEAD >ABC
-
-======= > ABC >>>>>>> sang
+> ABC
